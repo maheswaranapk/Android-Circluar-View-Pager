@@ -17,11 +17,10 @@ dependencies {
 
 In Layout xml,
 ```xml
-            <com.scriptedpapers.androidcircularviewpager.CircularViewPager
-                    android:id="@+id/viewPager"
-                    android:layout_width="match_parent"
-                    android:layout_margin="16dp"
-                    android:layout_height="match_parent"/>
+         <com.scriptedpapers.androidcircularviewpager.CircularViewPager
+                  android:id="@+id/viewPager"
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"/>
 ```
 
 In Adapter,
